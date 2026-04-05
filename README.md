@@ -16,6 +16,11 @@ An end-to-end machine learning system that processes **50,000+ traffic records**
 | OOB Score | ~0.9998 |
 | CV R² (5-fold) | 0.9998 ± 0.0001 |
 
+
+traffic-optimization/outputs/model_results.png
+
+
+
 ---
 
 ## 🏗️ Project Structure
@@ -134,6 +139,12 @@ jupyter notebook eda_and_analysis.ipynb
 | `models/metrics.json` | Evaluation metrics |
 | `models/artifacts/scaler.pkl` | Fitted scaler |
 
+## Output
+
+Here is the model prediction result:
+
+![Prediction Output](c:\Users\narla\Downloads\traffic-optimization\traffic-optimization\outputs\model_results.png)
+
 ---
 
 ## 🧠 Key Design Decisions
@@ -155,6 +166,11 @@ jupyter notebook eda_and_analysis.ipynb
 - matplotlib ≥ 3.8
 
 ---
+👩‍💻 Created By
+
+Vedasri Narla
+
+Feel free to ⭐ star or fork the project if you found it interesting!
 
 ## 📄 License
 
