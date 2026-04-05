@@ -143,7 +143,6 @@ jupyter notebook eda_and_analysis.ipynb
 Here is the model prediction result:
 <img width="2195" height="1654" alt="model_results" src="https://github.com/user-attachments/assets/1990068d-4bbb-4636-9864-bb40146b4c23" />
 
-![Prediction Output](c:\Users\narla\Downloads\traffic-optimization\traffic-optimization\outputs\model_results.png)
 
 ---
 
