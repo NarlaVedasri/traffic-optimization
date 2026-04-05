@@ -139,7 +139,6 @@ jupyter notebook eda_and_analysis.ipynb
 | `models/metrics.json` | Evaluation metrics |
 | `models/artifacts/scaler.pkl` | Fitted scaler |
 
-## Output
 
 Here is the model prediction result:
 
