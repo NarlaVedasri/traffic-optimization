@@ -1,0 +1,11 @@
+{
+  "r2_score": 0.998548,
+  "mae_seconds": 0.879,
+  "rmse_seconds": 1.3206,
+  "mape_pct": 2.1613,
+  "explained_variance": 0.998549,
+  "oob_score": 0.998566,
+  "cv_r2_mean": 0.9985,
+  "cv_r2_std": 0.0,
+  "n_test_samples": 11000
+}
